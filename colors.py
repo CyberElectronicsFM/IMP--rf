@@ -2,7 +2,18 @@
 
 THIS TOOL HAS BEEN PROGRAMED BY MENA MAGDY TO BENTRATION THIS PYTHON COLORS
 ENJOY GYSSS 
-
+#HITLER HACK
+#######################ONLY WITH PYTHON L.N.G################>
+#                         HACK 4 UUUU
+# Regular Colors
+#□□□□□0%
+#■□□□□20%
+#■■□□□40%
+#■■■□□60%
+#■■■■□80%
+#■■■■□90%
+#■■■■■100%
+#██████████████]99%
 # Regular Colors  
 Black="\[\033[0;30m\]" # Black
 Red="\[\033[0;31m\]" # Red
