@@ -89,6 +89,7 @@ print("Done.......!!!!!!!!")
 
 
 
+
 import time
 time.sleep(1)
 print("⋱ ⋮ ⋰   ")
@@ -112,6 +113,38 @@ print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆"
 print("《2》INSTALL METASPLOIT☆")
 print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
 print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《3》TO GET NUMBERS☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《4》 DDOS ATTACK ☆☆☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《5》HACK CAMERA WITH HTTPS ☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《6》INFORMATION GATHERING WITH IP ☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《7》GET WEBSITE IP FROM DNS☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《8》WHO PROGRAMED THIS TOOL ☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《9》 PYTHON L.N.G COLORS☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("《10》 TO REPAIR YOUR TERMUX☆")
+print("☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆")
+print("")
    
     
     
@@ -130,7 +163,7 @@ if hit3 == "2" :
     print("      ━━┻━┻━━━━━━┻━┻━━")   
     print(" HELLO FRIEND ....!") 
     print(" WELCOME BACK!!    ")    
-    print("     》》》》》☬INSTALL METASPLOIT☬《《《《《   "
+    print("     》》》》》☬INSTALL METASPLOIT☬《《《《《   ")
     print("")
     print("")
     print(" ☬☬☬☬☬ ON TERMUX ☬☬☬☬☬                        ")
