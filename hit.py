@@ -181,7 +181,7 @@ if hit3 == "3" :
     print("       █▄█████▄█    ")
     print("       █▼▼▼▼▼      ")
     print("       █  Destriputed Denil Of Service     ")
-    print("       █▲▲▲▲▲     "
+    print("       █▲▲▲▲▲     ")
     print("       █████████   ")
     print("       ██ ██  ")
     print("   《1》OPEN NEW SESSION                     ")
