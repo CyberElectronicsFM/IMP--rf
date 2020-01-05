@@ -60,7 +60,7 @@ f = "\033[1;92m" #GREEN
 #while v < 10 :
 #    print (v)
 #    v=v+1
-immport time
+import time
 print("           ")
 time.sleep(1)
 print("□□□□□□□□□□0%")
@@ -154,7 +154,7 @@ if hit3 == "1" :
     print(" i recomend to you to use copy & paste    ")
    
 if hit3 == "2" :
-    print("      Done....■□■□■□■□■□■□■□■□■□■!!"
+    print("      Done....■□■□■□■□■□■□■□■□■□■!!")
     print("      ┊┊╭━━━╮┊┊╭━━━╮┊┊")
     print("      ┊┊┃┈▋▋┃┊┊┃▋▋┈┃┊┊")
     print("      ┏━╯┈┈┈◣┊┊◢┈┈┈╰━┓")
