@@ -196,7 +196,7 @@ if hit3 == "3" :
     print("   《4》WRITE [ pkg upgrade ]                ")
     print("   《5》WRITE [ pkg install python2 ]        ")
     print("   《5》WRITE [ git clone https://github.com/CiKu370/OSIF                ")
-    print("   《6》WRITE [  ls ]                                   "
+    print("   《6》WRITE [  ls ]                                   ")
     print("   《7》WRITE [ cd OSIF ]                               ")
     print("   《8》WRITE [  ls ]                                   ")
     print("   《9》WRITE [ chmod 777 * ]                           ")             
