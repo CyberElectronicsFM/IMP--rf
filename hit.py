@@ -92,7 +92,7 @@ print("Done.......!!!!!!!")
 time.sleep(1)
 print("■■■■■■■■■■100%")
 print("Done.......!!!!!!!!")
-import so
+import os
 os. system("clear")
 
 
