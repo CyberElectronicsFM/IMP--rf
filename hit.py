@@ -529,7 +529,6 @@ if hit3 == "9" :
     print("")
     print("")
     print("")
-    print("")
     
     	
     	
