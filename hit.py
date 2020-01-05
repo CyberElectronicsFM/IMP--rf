@@ -60,6 +60,12 @@ f = "\033[1;92m" #GREEN
 #while v < 10 :
 #    print (v)
 #    v=v+1
+for v in range (10) :
+    import time
+    time.sleep(1)
+    print(b+ "PROSESS")
+    print(b+ "Done......■□■□■□■□■□■□■□■□■□■!!")
+    print(b+ "WORKED.....................")
 import time
 print("           ")
 time.sleep(1)
