@@ -158,7 +158,6 @@ if hit3 == "1" :
     print("      Done....■□■□■□■□■□■□■□■□■□■!!")
     print("      SOOON GYS                              ")
     print(" i recomend to you to use copy & paste    ")
-   
 if hit3 == "2" :
     print("      Done....■□■□■□■□■□■□■□■□■□■!!")
     print("      ┊┊╭━━━╮┊┊╭━━━╮┊┊")
@@ -202,8 +201,6 @@ if hit3 == "3" :
     print("   《9》WRITE [ chmod 777 * ]                           ")             
     print("                                                       ")
     print("     i recomend to you to use copy & paste             ")
-
-
 if hit3 == "4" :
     print("      Done....■□■□■□■□■□■□■□■□■□■!!")
     print(" SOOOON GYSsss ")
@@ -216,7 +213,6 @@ if hit3 == "4" :
     print(" ┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈")
     print(" ┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈")
     print(" i recomend to you to use copy & paste ")
-
 
 if hit3 == "6" :
     print("      Done....■□■□■□■□■□■□■□■□■□■!!")
@@ -255,7 +251,6 @@ if hit3 == "6" :
         print("")
 ###############################        
 
-
 if hit3 == "7" :
     print("     Done....■□■□■□■□■□■□■□■□■□■!!")
     import socket
@@ -265,12 +260,10 @@ if hit3 == "7" :
     ip=socket.gethostbyname(hostname)
     print ("Host Name Is : ",hostname,    '/n' 'TARGET IP IS : ',ip)  
 	     
-
 if hit3 == "5" :
     print("     Done....■□■□■□■□■□■□■□■□■□■!!")
     print("Soooon gyssss                                ")
     print("  i recomend to you to use copy & paste ")
-
 
 
 
